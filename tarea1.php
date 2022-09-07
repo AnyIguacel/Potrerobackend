@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -56,7 +55,7 @@
          <br>
          <hr>
 
-         <h2> Ejercico Nº 4: Transfformar grados Celsius, en grados Fahrenheit, para el valor 20ºC y luego lo imprima en pantalla</h2>
+         <h2> Ejercico Nº 4: Transformar grados Celsius, en grados Fahrenheit, para el valor 20ºC y luego lo imprima en pantalla</h2>
          <?php
          $grados = 20;
          $fahrenheit = 32;
@@ -84,7 +83,7 @@
             <h2> Ejercico Nº 5c: Perímetro de un circulo</h2>
             <?php
             $radio = 30;
-            $pi = 3.14
+            $pi = 3.14;
             echo $radio * $pi * 2;
              ?>
              <br>
@@ -92,7 +91,7 @@
 
              <h2> Ejercico Nº 5d: Area de un circulo</h2>
              <?php
-              echo $radio **2 * $pi ;
+              echo $radio * $radio* $pi ;
     ?>
   </body>
 
